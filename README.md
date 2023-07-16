@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <img height="180.2px" width="260px" src="https://seinenmanga.com/wp-content/uploads/2021/12/Hiromi-Higuruma-Jujutsu-Kaisen.jpg">  
+</div>
 
-<!--
-**ryuza-ki/ryuza-ki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim:
 
-Here are some ideas to get you started:
+Meu nickname é Ryuzaki. Nasci em 2004 e atualmente estou estudando para o vestibular, também estou aprimorando minhas habilidades em programação e inglês. Meu objetivo é cursar Ciência da Computação na UFC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Coisas que gosto:
+
+- ✍️  gosto bastante de desenhar. por enquanto, meus estudos de desenho estão pausados, mas pretendo retomá-los em breve.
+- 🎵 gosto de música eletrônica. Hippie Sabotage é meu grupo musical favorito. Além disso, aprecio rock e indie.
+- 🍥 gosto de animes, mangás e manhwas, especialmente aqueles que apresentam críticas sociais.
